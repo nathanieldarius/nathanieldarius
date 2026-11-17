@@ -46,22 +46,21 @@ I'm currently in my 3rd semester, exploring the world of technology and software
 
 ---
 
+
 ## 📂 Featured Projects
 
-### 1. Stack ADT - C++
-Implementation of Stack Abstract Data Type using C++, including basic stack operations and element processing.
+### 1. Tugas Besar Kelompok
+A collaborative project developed as part of a university assignment. This project represents my experience working in a team and applying programming concepts to solve problems.
 
-🔗 [View Repository](LINK_REPOSITORY_1)
+🔗 [View Repository](https://github.com/nathanieldarius/Tugas-Besar-Kelompok_A)
 
-### 2. Go Programming Exercises
-A collection of programming exercises using Go, focusing on basic programming concepts, arrays, functions, and structures.
+### 2. Log Listrik - Algoritma dan Pemrograman
+A programming project focused on electricity usage and cost calculation, developed as part of an Algorithm and Programming course assignment.
 
-🔗 [View Repository](LINK_REPOSITORY_2)
+🔗 [View Repository](https://github.com/nathanieldarius/Tubes-Alpro-Nathan-Rifky-Log-Listrik)
 
-### 3. Posyandu Sehat Database Design
-A database design project involving entities and relationships for a Posyandu information system.
 
-🔗 [View Repository](LINK_REPOSITORY_3)
+
 
 ---
 
